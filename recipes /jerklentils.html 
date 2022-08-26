@@ -1,21 +1,28 @@
+
+<main>
 <h1> Jerk Lentils </h1> 
-<img src="images/Jerk.jpg"> 
+ <img src='../images/Jerk.jpg' alt='A labelled diagram of a cocktail' style="width:600px;height:600px;">
 
 <h1> Description </h1> 
-<p> This is Trinidad Style Lentils Stew recipes </p> 
-<p> As a Vegan, some people think you might not be able to enjoy Jerk, but with these lentils. You're able to taste all the caribbean flavor of the west indies </p>
+<h2> This is Trinidad Style Lentils Stew recipes </h2> 
+<p> As a Vegan, some people think you might not be able to enjoy Jerk, but with these lentils. You're able to taste all the caribbean flavor of the west indies. </p>
+<p></p> 
+
 
     <h2> Ingredients </h2> 
-    <ol> 1 red onion 
-1 thumb of ginger 
-3 sprigs of thyme 
-2 spring onions 
-4 cloves of garlic 
-1 tbsp maple syrup 
-1 1/2 tbsp jerk seasoning 
-400g chopped tomatoes
- 600ml vegetable stock 
-350g dried green lentils 
-Salt and black pepper to taste </ol> 
+<ul>
+    <li> 1 red onion </li> 
+    <li> 1 thumb of ginger </li>
+    <li> 3 sprigs of thyme </li> 
+    <li> 2 spring onions </li> 
+    <li> 4 cloves of garlic </li> 
+    <li> 1 tbsp maple syrup </li> 
+    <li> 1 1/2 tbsp jerk seasoning </li>  
+    <li> 400g chopped tomatoes </> 
+    <li> 600ml vegetable stock </li> 
+    <li> 350g dried green lentils </li> 
+    <li> Salt and black pepper to taste </li> 
+</ul>   
 
 
+</main>
